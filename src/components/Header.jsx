@@ -10,7 +10,7 @@ const Header = () => {
       <div className="inner-header">
         <h1>IP Address Tracker</h1>
         <div className="search-bar">
-          <input spellcheck="false" className="search-input" type="text" />
+          <input spellCheck="false" className="search-input" type="text" />
           <button className="search-btn" onClick={test}>
             <Arrow />
           </button>

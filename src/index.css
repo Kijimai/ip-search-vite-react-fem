@@ -24,3 +24,10 @@ body {
 ul {
   list-style: none;
 }
+
+/* LEAFLET OVERRIDES */
+
+.leaflet-container {
+  height: 18rem;
+  width: 100vw;
+}
