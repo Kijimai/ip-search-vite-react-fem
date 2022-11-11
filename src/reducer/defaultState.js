@@ -1,3 +1,5 @@
 export const defaultState = {
-  test: []
+  test: [],
+  displayInfo: false,
+  infoData: []
 }
